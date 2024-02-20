@@ -1,0 +1,111 @@
+{
+  "Employee": [
+    {
+      "id": 5,
+      "url": "https://img.freepik.com/free-photo/smartphone-balancing-with-pink-background_23-2150271746.jpg?size=626&ext=jpg&ga=GA1.1.1114570742.1706069563&semt=sph",
+      "name": "Apple",
+      "cost": "12000",
+      "available": "5"
+    },
+    {
+      "id": 6,
+      "url": "https://img.freepik.com/free-photo/smartphone-balancing-with-pink-background_23-2150271746.jpg?size=626&ext=jpg&ga=GA1.1.1114570742.1706069563&semt=sph",
+      "name": "Apple",
+      "cost": "50000",
+      "available": "15"
+    },
+    {
+      "id": 7,
+      "url": "https://img.freepik.com/free-photo/smartphone-balancing-with-pink-background_23-2150271746.jpg?size=626&ext=jpg&ga=GA1.1.1114570742.1706069563&semt=sph",
+      "name": "Moto",
+      "cost": "50000",
+      "available": "20"
+    },
+    {
+      "id": 8,
+      "url": "https://img.freepik.com/free-photo/smartphone-balancing-with-pink-background_23-2150271746.jpg?size=626&ext=jpg&ga=GA1.1.1114570742.1706069563&semt=sph",
+      "name": "Poco",
+      "cost": "55000",
+      "available": "20"
+    },
+    {
+      "id": 9,
+      "url": "https://img.freepik.com/free-photo/smartphone-balancing-with-pink-background_23-2150271746.jpg?size=626&ext=jpg&ga=GA1.1.1114570742.1706069563&semt=sph",
+      "name": "narzo",
+      "cost": "55000",
+      "available": "20"
+    },
+    {
+      "id": 10,
+      "url": "https://img.freepik.com/free-photo/smartphone-balancing-with-pink-background_23-2150271746.jpg?size=626&ext=jpg&ga=GA1.1.1114570742.1706069563&semt=sph",
+      "name": "I3",
+      "cost": "55000",
+      "available": "20"
+    },
+    {
+      "id": 11,
+      "url": "https://img.freepik.com/free-photo/smartphone-balancing-with-pink-background_23-2150271746.jpg?size=626&ext=jpg&ga=GA1.1.1114570742.1706069563&semt=sph",
+      "name": "iOp",
+      "cost": "55000",
+      "available": "20"
+    },
+    {
+      "id": 12,
+      "url": "https://img.freepik.com/free-photo/smartphone-balancing-with-pink-background_23-2150271746.jpg?size=626&ext=jpg&ga=GA1.1.1114570742.1706069563&semt=sph",
+      "name": "vivo",
+      "cost": "5000",
+      "available": "15"
+    },
+    {
+      "id": 13,
+      "url": "https://img.freepik.com/free-photo/smartphone-balancing-with-pink-background_23-2150271746.jpg?size=626&ext=jpg&ga=GA1.1.1114570742.1706069563&semt=sph",
+      "name": "Apple",
+      "cost": "50000",
+      "available": "20"
+    },
+    {
+      "id": 15,
+      "url": "https://img.freepik.com/free-photo/smartphone-balancing-with-pink-background_23-2150271746.jpg?size=626&ext=jpg&ga=GA1.1.1114570742.1706069563&semt=sph",
+      "name": "realme",
+      "cost": "50000",
+      "available": "20"
+    },
+    {
+      "id": 16,
+      "url": "https://img.freepik.com/free-photo/smartphone-balancing-with-pink-background_23-2150271746.jpg?size=626&ext=jpg&ga=GA1.1.1114570742.1706069563&semt=sph",
+      "name": "Andriod",
+      "cost": "10",
+      "available": "1"
+    },
+    {
+      "id": 17,
+      "url": "https://img.freepik.com/free-photo/smartphone-balancing-with-pink-background_23-2150271746.jpg?size=626&ext=jpg&ga=GA1.1.1114570742.1706069563&semt=sph",
+      "name": "Nandhu",
+      "cost": "10",
+      "available": "1"
+    },
+    {
+      "id": 18,
+      "url": "https://www.bing.com/images/search?view=detailV2&ccid=3F1uHClG&id=6644DC35C3CD669A78B6313F2DF5F3F5FC3F5D02&thid=OIP.3F1uHClGROs9kuyaN3HnmQHaLl&mediaurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.dc5d6e1c294644eb3d92ec9a3771e799%3frik%3dAl0%252f%252fPXz9S0%252fMQ%26riu%3dhttp%253a%252f%252fpngimg.com%252fuploads%252fsmartphone%252fsmartphone_PNG8528.png%26ehk%3dPWhh7cEjm2hbhHD1%252fkvAphmEmJzFLvz2%252bzWdzmLqJWk%253d%26risl%3d1%26pid%3dImgRaw%26r%3d0&exph=1988&expw=1270&q=mobile+images&simid=608014116755021364&FORM=IRPRST&ck=ED9951669CECD78943BC24DA04C86C13&selectedIndex=0&itb=1",
+      "name": "kavin",
+      "cost": "100",
+      "available": "200"
+    }
+  ],
+  "Data": [
+    {
+      "id": 4,
+      "url": "https://img.freepik.com/free-photo/smartphone-balancing-with-pink-background_23-2150271746.jpg?size=626&ext=jpg&ga=GA1.1.1114570742.1706069563&semt=sph",
+      "name": "Vivo",
+      "cost": "20000",
+      "available": "12"
+    },
+    {
+      "id": 8,
+      "url": "https://img.freepik.com/free-photo/smartphone-balancing-with-pink-background_23-2150271746.jpg?size=626&ext=jpg&ga=GA1.1.1114570742.1706069563&semt=sph",
+      "name": "Poco",
+      "cost": "55000",
+      "available": "20"
+    }
+  ]
+}

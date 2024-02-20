@@ -1,0 +1,39 @@
+#jana{
+    display: grid;
+    grid-template-columns: 20% 80%;
+    
+}
+#ham{
+    display: none;
+}
+#inp{
+    display: none;
+}
+@media(max-width:500px){
+   #ham{
+    display: block;
+   }
+   #form10{
+    display: none;
+   }
+   /* #inp[type=checkbox]:checked~#form{
+    display: block;
+   } */
+   
+   
+    #jana{
+        display: inline;
+
+    }
+}
+#jana1{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+}
+@media(max-width:500px) {
+    #jana1{
+        display: inline;
+        display: grid;
+        grid-template-columns: auto;
+    }
+}
